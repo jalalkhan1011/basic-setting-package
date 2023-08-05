@@ -1,0 +1,17 @@
+{
+    "name": "jalaldev/basicsetting",
+    "description": "This packae use to how to learn create laravel package.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jalaldev\\Basicsetting\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "\"jalalkhan1011\""
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
